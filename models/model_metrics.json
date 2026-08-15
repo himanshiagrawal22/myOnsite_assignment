@@ -1,0 +1,15 @@
+{
+    "MAE": 1103852.2257042257,
+    "RMSE": 3179980.5029342067,
+    "R2": -0.17635476186812915,
+    "training_samples": 354,
+    "features": [
+        "average_masked_mean",
+        "average_masked_max",
+        "average_masked_min",
+        "average_masked_stdDev",
+        "Brightness_Range",
+        "Brightness_Ratio",
+        "Brightness_Product"
+    ]
+}
